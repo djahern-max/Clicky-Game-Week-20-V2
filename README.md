@@ -7,6 +7,5 @@ Try to click on every Incredibles character picture once. When you click a chara
 ## Heroku Link
 The link below will give you direct access to Clicky-Game web application using your web browser via the Heroku web service. 
 
-* [Clicky-Game](https://young-chamber-04444.herokuapp.com/)
+* [Incredibles Clicky Game!]hamber-04444.herokuapp.com/)
 
-https://young-chamber-04444.herokuapp.com/

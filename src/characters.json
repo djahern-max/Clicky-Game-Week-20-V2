@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Edna Mode",
+    "image": "../imgs/Edna_Mode.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Elastigirl",
+    "image": "../imgs/elastigirl.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dash",
+    "image": "../imgs/dash.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mr. Incredible",
+    "image": "../imgs/mrIncredible.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Jack Jack",
+    "image": "../imgs/JackJack.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Kari McKeen",
+    "image": "../imgs/KariMckeen.jpg"
+  },
+  {
+    "id": 7,
+    "name": "The Underminer",
+    "image": "../imgs/TheUnderminer.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Violet",
+    "image": "../imgs/voilet.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Syndrome",
+    "image": "../imgs/Syndrome.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mirage",
+    "image": "../imgs/Mirage.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Gilbert Huph",
+    "image": "../imgs/GilbertHuph.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Rick Dicker",
+    "image": "../imgs/RickDicker.jpg"
+  }
+]

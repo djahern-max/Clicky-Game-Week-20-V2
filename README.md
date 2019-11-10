@@ -9,10 +9,10 @@ Try to click on every Incredibles character picture once. When you click a chara
 * [Incredibles Clicky Game](hamber-04444.herokuapp.com/)
 
 ## Technologies Used:
--React
--Javascript
--HTML
--CSS
+- React
+- Javascript
+- HTML
+- CSS
 
 
 

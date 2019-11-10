@@ -6,7 +6,7 @@ Try to click on every Incredibles character picture once. When you click a chara
 
 ## Heroku Link:
 
-https://young-chamber-04444.herokuapp.com/
+* .[https://young-chamber-04444.herokuapp.com/]
 
 ## Technologies Used:
 - React
